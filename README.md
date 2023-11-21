@@ -14,8 +14,8 @@ Drag and drop a pdf file from your file explorer (or via the "Browse files" butt
 
 You can get summaries:
 
-![summary](https://github.com/rkdan/pdf-reader/blob/main/img/summary.png?raw=True)
+![summary](https://github.com/rkdan/pdfReader/blob/main/img/summary.png?raw=True)
 
 or ask specific questions:
 
-![specific](https://github.com/rkdan/pdf-reader/blob/main/img/specific.png?raw=True)
+![specific](https://github.com/rkdan/pdfReader/blob/main/img/specific.png?raw=True)

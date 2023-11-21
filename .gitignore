@@ -1,3 +1,4 @@
 .env
 venv
 testing.ipynb
+.DS_Store
