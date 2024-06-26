@@ -9,6 +9,11 @@ or, if you want to install the fully-pinned versions of the requirements:
 pip install -r requirements.txt
 ```
 
+You'll need a huggingface API key to be available in your environment. You can set it up by running:
+```bash
+export HUGGINGFACEHUB_API_KEY=XXXXXXXXXXXXXXXXXXXXXX
+```
+
 # Example usage
 In the terminal, run:
 ```
